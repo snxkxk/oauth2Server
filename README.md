@@ -429,3 +429,4 @@ Base on Spring-Boot
 <p>
  <em>若需商业技术支持或提供技术解决方案, 请联系 <a href="mailto:snxkxk@foxmail.com">snxkxk@foxmail.com</a></em>
 </p>
+# oauth2Server
